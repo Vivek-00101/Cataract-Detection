@@ -8,3 +8,6 @@ This project focuses on detecting cataracts in eye images using the VGG19 archit
 - Web application allows users to upload eye images for analysis.
 - Classifies images into categories: cataract present or not, and type of cataract if detected.
 - Provides a user-friendly interface for easy interaction.
+
+## Important Note
+The train folder included in this repository is for demonstration purposes only. It contains a limited number of images and is not sufficient for training the VGG19 architecture effectively. Additional images may be required for robust model training.
